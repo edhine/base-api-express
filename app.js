@@ -1,6 +1,6 @@
 /**
  * Configuracion y preparacion APP
- * @author Edhine - Sergio Andrés Orellana Roa
+ * @author Edhine
  */
 'use strict';
 

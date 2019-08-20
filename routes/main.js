@@ -1,6 +1,6 @@
 /*********************************************************************************************
  *                        Variables de enrutamiento de peticiones REST
- *                        @author Edhine - Sergio Andrés Orellana Roa
+ *                                      @author Edhine
  ********************************************************************************************/
 'use strict';
 

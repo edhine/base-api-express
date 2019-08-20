@@ -1,6 +1,6 @@
 /**
  * Controlador Prueba
- * @author Edhine - Sergio Andrés Orellana Roa
+ * @author Edhine
  * 
  * @method POST prueba
  */

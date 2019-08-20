@@ -9,7 +9,7 @@
     "start": "npm run iniciar-api-prod",
     "dev": "npm run iniciar-api-dev"
   },
-  "author": "Edhine - Sergio Andrés Orellana Roa",
+  "author": "Edhine",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",

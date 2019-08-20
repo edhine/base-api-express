@@ -1,6 +1,6 @@
 /**
  * Servidor
- * @author Edhine - Sergio Andrés Orellana Roa
+ * @author Edhine
  */
 'use strict';
 
