@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express?ref=badge_shield)
+
 # Base Api Express
 
 _Este proyecto basado en express, como indica el titulo ser una base para realizar una api de servicios REST con una arquitectura establecida._
